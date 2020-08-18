@@ -4,9 +4,9 @@
  
  ⚡️ Techs: HTML, CSS, JavaScript, SQL.
  
- Insta: [@viictorreiss](https://www.instagram.com/viictorreiss/)
+ 🔶 Insta: [@viictorreiss](https://www.instagram.com/viictorreiss/)
  
- Linkedin:[My Profile in Linkedin](https://www.linkedin.com/in/victormendesreis)
+ 🔶 Linkedin: [My Profile in Linkedin](https://www.linkedin.com/in/victormendesreis)
 
 <!--
 **Viictorreiss/Viictorreiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
