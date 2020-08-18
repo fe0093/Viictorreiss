@@ -6,7 +6,7 @@
  
  🔸📷 [My profile on Instagram](https://www.instagram.com/viictorreiss/)
  
- 🔸📝 [My profile on Linkedin](http://github.com)
+ 🔸📝 [My profile on Linkedin](https://www.linkedin.com/in/victormendesreis/)
 
 
 <!--
