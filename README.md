@@ -2,7 +2,7 @@
 
  🔸💻 A noble programmer looking for more knowledge every day
  
- 🔸⚡️ Techs: HTML, CSS, JavaScript, SQL.
+ 🔸⚡️ Techs: HTML, JQuery, Python, MySQL.
  
  🔸📷 [My profile on Instagram](https://www.instagram.com/viictorreiss/)
  
