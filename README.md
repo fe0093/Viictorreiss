@@ -1,11 +1,13 @@
 ### Welcome to my Profile 👋 🇧🇷
 
- 💻 A noble programmer looking for more knowledge every day
+ 🔸💻 A noble programmer looking for more knowledge every day
  
- ⚡️ Techs: HTML, CSS, JavaScript, SQL.
+ 🔸⚡️ Techs: HTML, CSS, JavaScript, SQL.
  
- [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
- [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-   fernandes/)](https://www.linkedin.com/in/victormendesreis) 
+ 🔸📷 [My profile on Instagram](https://www.instagram.com/viictorreiss/)
+ 
+ 🔸📝 [My profile on Linkedin](http://github.com)
+
 
 <!--
 **Viictorreiss/Viictorreiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
