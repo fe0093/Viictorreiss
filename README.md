@@ -8,6 +8,6 @@
  🔸⚡️ Techs: HTML, JQuery, Python, MySQL.
  
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=viictorreiss&show_icons=true&theme=onedark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=viictorreiss&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorreiss&layout=compact&theme=onedark)](https://github.com/viictorreiss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorreiss&layout=compact&theme=midnight-purple)](https://github.com/viictorreiss/github-readme-stats)
