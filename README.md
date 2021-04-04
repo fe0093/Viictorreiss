@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Viictorreiss)](https://github.com/Viictorreiss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormendesreis/)](https://www.linkedin.com/in/victormendesreis/)
 
- 🔸💻 A noble programmer looking for more knowledge every day
+ 🔸💻 A noble programmer looking for more knowledge every day.
  
  🔸⚡️ Techs: HTML, JQuery, Python, MySQL and more.
 
