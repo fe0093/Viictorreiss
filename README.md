@@ -33,7 +33,15 @@ I am a technology enthusiast. call me to talk and if you have an idea. I like to
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br>
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+HTML   8 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.56 % 
+Python          5 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 % 
+CSS         3 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
+JS     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+```
 
 My Stats 😎:
 
