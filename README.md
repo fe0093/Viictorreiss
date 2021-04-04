@@ -14,7 +14,7 @@
 
 I am a technology enthusiast. call me to talk and if you have an idea. I like to participate in everything.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="380" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="380" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/viictorreiss);
@@ -33,15 +33,7 @@ I am a technology enthusiast. call me to talk and if you have an idea. I like to
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-HTML   8 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.56 % 
-Python          5 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 % 
-CSS         3 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
-JS     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
+<img src="https://camo.githubusercontent.com/3cbf7a67317085a9eeb3b12938d53a4f3beb301c8035797483a4e0ecdfedd024/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76696963746f727265697373266c61796f75743d636f6d70616374267468656d653d6d69646e696768742d707572706c65" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictorreiss&amp;layout=compact&amp;theme=midnight-purple" style="max-width:100%;">
 
 My Stats 😎:
 
