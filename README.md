@@ -3,7 +3,7 @@
 [![Portfólio Badge](https://img.shields.io/badge/-My%20Portf%C3%B3lio-red)](https://viictorreiss.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormendesreis/)](https://www.linkedin.com/in/victormendesreis/)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fviictorreiss)](https://twitter.com/viictorreiss)
-[![RocketSeat](https://img.shields.io/badge/-rocketseat-blueviolet](https://app.rocketseat.com.br/me/victor-reis-07355)
+[![RocketSeat](https://img.shields.io/badge/-rocketseat-blueviolet)](https://app.rocketseat.com.br/me/victor-reis-07355)
 
 
  🔸💻 A noble programmer looking for more knowledge every day.
